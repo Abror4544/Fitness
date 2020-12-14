@@ -1447,13 +1447,13 @@ footer .copyright {
   }
 
   footer {
-    margin-top: 64vh;
+    margin-top: 56%;
   }
 }
 
 @media screen and (max-width: 667px) {
   footer {
-    margin-top: 64vh;
+    margin-top: 58%;
   }
 }
 
@@ -1516,13 +1516,13 @@ footer .copyright {
   }
 
   footer {
-    margin-top: 76vh;
+    margin-top: 77%;
   }
 }
 
 @media screen and (max-width: 540px) {
   footer {
-    margin-top: 60vh;
+    margin-top: 78%;
   }
 }
 
@@ -1569,7 +1569,7 @@ footer .copyright {
 
 @media screen and (max-width: 480px) {
   footer {
-    margin-top: 51vh;
+    margin-top: 91%;
   }
 }
 
@@ -1605,8 +1605,9 @@ footer .copyright {
 }
 
 @media screen and (max-width: 467px) {
+  
   footer {
-    margin-top: 47vh;
+    margin-top: 91%;
   }
 }
 
@@ -1672,7 +1673,7 @@ footer .copyright {
 
 @media screen and (max-width: 367px) {
   footer {
-    margin-top: 68vh;
+    margin-top: 116%;
   }
 }
 
@@ -1710,6 +1711,6 @@ footer .copyright {
 
 @media screen and (max-width: 280px) {
   footer {
-    margin-top: 66vh;
+    margin-top: 126%;
   }
 }
