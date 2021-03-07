@@ -119,6 +119,8 @@
   cursor: pointer;
   display: none;
   z-index: 2000;
+  position: fixed;
+  right: 3%;
 }
 
 .menu_navbar .menu_btn_bars .fa {
@@ -1206,6 +1208,7 @@ footer .copyright {
     -o-transition: 0.5s;
     transition: 0.5s;
     display: none;
+    position: fixed;
   }
 
   .menu_navbar .menu_ul ul li {
